@@ -4,7 +4,7 @@ A simple web application that fetches and displays real-time stock data using th
 
 ## 🚀 Live Demo
 
-Check out the live project here: [Stock Project](https://your-live-demo-link.com)
+Check out the live project here: [Stock Project]
 
 ## 🧩 Features
 
