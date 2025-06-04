@@ -18,5 +18,5 @@ Check out the live project here: [Stock Project](https://your-live-demo-link.com
 - **HTML**
 - **CSS**
 - **JavaScript**
-- [**Chart.js**](https://www.chartjs.org/) for data visualization
-- [**Alpha Vantage API**](https://www.alphavantage.co/) for real-time stock data
+- [**Chart.js**] for data visualization
+- [**Alpha Vantage API**]for real-time stock data
